@@ -22,7 +22,8 @@ Then change into the `flask-examples` folder:
 cd flask-examples
 ```
 
-Now, we will need to create a virtual environment and install all the dependencies:
+Now, we will need to create a virtual environment and install all the dependencies:</br>
+Note the python version is python3.9 that is compatible
 
 ```bash
 python3 -m venv venv  # on Windows, use "python -m venv venv" instead
